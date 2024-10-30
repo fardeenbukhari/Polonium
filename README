@@ -1,4 +1,6 @@
-Polonium a an open source voice assistant program made by fardeen bukhari.This version of python voice assistant would be able to greet you for now as it has an ability to remember things and save them in its local database file
+"Polonium is an open-source voice assistant program created by Fardeen Bukhari. In its current version, this Python-based voice assistant can greet users and has the ability to remember information by saving it in a local database file."
+
+
 
 version : 0.1
 date : 18/01/2023
